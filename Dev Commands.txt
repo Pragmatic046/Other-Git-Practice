@@ -1,3 +1,14 @@
+------------------REACT-APP-PUSH-TO-GITHUB--------
+=>git init
+=>git remote add origin github-repo-link
+=>git add .
+=>git commit -m "write something"
+=>git push origin master ('-u' before origin could be used)
+--------------------------------------------------
+=>
+=>
+=>
+=>
 =>git --version
 =>firebase --version
 =>npm --version
